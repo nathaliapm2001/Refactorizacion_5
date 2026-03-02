@@ -7,6 +7,6 @@ public class Employee {
     public String departamento;
     
     public void calcularSalarioAnual() {
-        System.out.println(salario * 12);
+    	System.out.println(salario * 12);
     }
 }
